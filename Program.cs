@@ -6,6 +6,8 @@ internal class Program
     {
         string uhh = "uhh";
 
+        string test = "nother test";
+
         PrintStuff ps = new PrintStuff("PT");
 
         string name = "";
