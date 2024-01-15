@@ -4,6 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        string uhh = "uhh";
 
         PrintStuff ps = new PrintStuff("PT");
 
